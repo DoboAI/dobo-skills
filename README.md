@@ -1,30 +1,30 @@
-# Mycroft Skills Repo
-![logo](https://avatars1.githubusercontent.com/u/14171097?v=4&s=200 "Logo")
+# dobo Skills Repo
+![logo](https://avatars.githubusercontent.com/u/149247616?s=200&v=4 "Logo")
 
 # Welcome
 
-The official home of **Skills** for the Mycroft ecosystem.  These **Skills** are written by both the MycroftAI team and others within the Community.
+The official home of **Skills** for the dobo ecosystem.  These **Skills** are written by both the doboAI team and others within the Community.
 
 # Meta Editor
 
-If you are building **Skills**, please ensure that you use the [Meta Editor](https://raw.githack.com/MycroftAI/mycroft-skills/19.02/meta_editor.html) for your README.md file. The **Skills** list is generated from parsing the README.md files. 
+If you are building **Skills**, please ensure that you use the [Meta Editor](https://raw.githack.com/doboAI/dobo-skills/19.02/meta_editor.html) for your README.md file. The **Skills** list is generated from parsing the README.md files. 
 
 # Skills Documentation
 
-If you want to write **Skills** for Mycroft, Documentation is available: 
+If you want to write **Skills** for dobo, Documentation is available: 
 
-* [Mycroft Skills Kit](https://mycroft.ai/documentation/skills/msk/)
-* [Developing a new Skill](https://mycroft.ai/documentation/skills/introduction-developing-skills/)
-* [Skill Settings](https://mycroft.ai/documentation/skills/skill-settings/)
-* [Automatic testing of your Mycroft Skill](https://mycroft.ai/documentation/skills/automatic-testing/)
-* [Skill Acceptance Process](https://mycroft.ai/documentation/skills/skills-acceptance-process/)
-* [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
-* [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
+* [Dobo Skills Kit](https://dobo.ai/documentation/skills/msk/)
+* [Developing a new Skill](https://dobo.ai/documentation/skills/introduction-developing-skills/)
+* [Skill Settings](https://dobo.ai/documentation/skills/skill-settings/)
+* [Automatic testing of your dobo Skill](https://dobo.ai/documentation/skills/automatic-testing/)
+* [Skill Acceptance Process](https://dobo.ai/documentation/skills/skills-acceptance-process/)
+* [dobo Skills Manager](https://dobo.ai/documentation/msm/)
+* [dobo Message Bus](https://dobo.ai/documentation/message-bus/)
 
 # Available Skills
 
-You can easily browse skills in this repo via the [Mycroft Marketplace](https://market.mycroft.ai).
+You can easily browse skills in this repo via the [dobo Marketplace](https://market.dobo.ai).
 
 # Support 
 
-Join us in the [~dev channel](https://chat.mycroft.ai/community/channels/dev) or [~skills channel](https://chat.mycroft.ai/community/channels/skills) on Mycroft Chat for assistance.
+Join us in the [~dev channel](https://chat.dobo.ai/community/channels/dev) or [~skills channel](https://chat.dobo.ai/community/channels/skills) on dobo Chat for assistance.

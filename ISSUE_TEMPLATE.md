@@ -43,7 +43,7 @@ We will normally require log files or other troubleshooting information to assis
 
 This [documentation](https://mycroft.ai/documentation/troubleshooting/) explains how to find log files. 
 
-As of version 0.9.10, the [Support Skill](https://github.com/MycroftAI/skill-support) also helps to automate gathering support information. 
+As of version 0.9.10, the [Support Skill](https://github.com/dobo/skill-support) also helps to automate gathering support information. 
 
 Simply say: 
 

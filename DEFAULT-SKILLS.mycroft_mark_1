@@ -5,7 +5,7 @@ mycroft-spotify
 mycroft-pandora
 
 # core
-mycroft-pairing
+dobo-pairing
 mycroft-configuration
 mycroft-installer
 mycroft-stop

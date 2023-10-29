@@ -43,9 +43,9 @@
 [submodule "mycroft-npr-news"]
 	path = skill-npr-news
 	url = https://github.com/mycroftai/skill-npr-news.git
-[submodule "mycroft-pairing"]
+[submodule "dobo-pairing"]
 	path = skill-pairing
-	url = https://github.com/mycroftai/skill-pairing.git
+	url = https://github.com/dobo/skill-pairing.git
 [submodule "mycroft-personal"]
 	path = skill-personal
 	url = https://github.com/mycroftai/skill-personal.git
